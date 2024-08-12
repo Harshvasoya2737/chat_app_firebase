@@ -45,6 +45,7 @@ dependencies:
   font_awesome_flutter:
   assets_audio_player:
   provider:
+  fluttertoast:
 
 dev_dependencies:
   flutter_test:
