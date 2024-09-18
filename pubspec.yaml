@@ -46,6 +46,7 @@ dependencies:
   assets_audio_player:
   provider:
   fluttertoast:
+  http:
 
 dev_dependencies:
   flutter_test:
