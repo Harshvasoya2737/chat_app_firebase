@@ -26,6 +26,32 @@
 - **Cloud Firestore**: A NoSQL cloud database used to store user data and chat messages in real-time.
 - **Dart**: The programming language used for Flutter development.
 
+### Lib Folder Structure where the folder and file save in lib Folder Showing by chart
+ <pre>
+  <code>
+### assets
+    
+assets
+├── images
+    └── chat-app-logo-2-removebg-preview.png
+
+### Library (lib)
+
+lib
+├── utils
+│   ├── helpers
+│       ├── auth_helper.dart
+│       └── firestore_helper.dart  
+├── view
+│   ├── chat_page.dart
+│   ├── home_page.dart
+│   ├── login_screen.dart
+│   └── splash_screen.dart
+│       
+├── firebase_options.dart
+└── main.dart
+  </code>
+</pre>
 
 ## Here I am sharing you the screenshot and UI of My Quick Chat App Application
 <img src="https://github.com/user-attachments/assets/1c970ba9-39a7-4dc0-bed4-18c50f0a803c" alt="20" style="width: 200px; height: 450px;">
